@@ -1,2 +1,6 @@
 my name is moiz
+<<<<<<< HEAD
 group members are two
+=======
+two group members
+>>>>>>> a879c179215ed96b73f24755a24684204255d4f5
